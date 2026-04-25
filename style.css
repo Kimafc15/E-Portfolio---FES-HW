@@ -54,7 +54,7 @@ i:hover {
   background-color: #000;
 }
 
-.link__hover-effectL:hover:after {
+.link__hover-effect:hover:after {
   width: 100%;
   left: 0;
 }
@@ -129,7 +129,7 @@ nav {
   background-color: #4348dc;
 }
 
-personal_logo {
+.personal_logo {
   font-size: 24px;
   color: #2d2dd6;
   margin: 0 12px;
