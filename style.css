@@ -440,12 +440,12 @@ footer {
 }
 
 .footer__anchor {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   position: relative;
 }
 
 .footer__anchor:hover .footer__logo--popper {
-  transform: translateX(60px);
+  transform: translatey(5px);
   opacity: 1;
 }
 
